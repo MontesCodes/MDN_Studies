@@ -1,4 +1,4 @@
-# Project Name
+# MDN Studies
 
 <!-- > Outline a brief description of your project. -->
 
@@ -92,7 +92,7 @@ To do:
 Give credit too.
 
 - This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer).
 - Many thanks to...
 
 ## Contact
